@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data files
+# Keep raw data private unless license allows sharing
+/data/raw/*.csv
+/data/processed/*.csv
+
+# Dashboard temp/cache files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
