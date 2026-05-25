@@ -10,8 +10,6 @@ env/
 
 # Data files
 # Keep raw data private unless license allows sharing
-/data/raw/*.csv
-/data/processed/*.csv
 
 # Dashboard temp/cache files
 *.tmp
